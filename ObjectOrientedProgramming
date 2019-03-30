@@ -1,0 +1,8 @@
+class Vehicle:
+    """Simple blueprint of a vehicle modeled in Python"""
+    def __init__ (self, year, make, model):
+        self.year = year
+        self.make = make
+        self.model = model
+
+class 
