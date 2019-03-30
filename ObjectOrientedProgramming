@@ -4,5 +4,3 @@ class Vehicle:
         self.year = year
         self.make = make
         self.model = model
-
-class 
